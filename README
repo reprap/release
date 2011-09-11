@@ -1,0 +1,11 @@
+This repository consists of a single file: reprap-nnnnnn-yyyymmdd.zip
+where nnnnnn is the name of the current RepRap machine and yyyymmdd is the date of the release.
+
+For installation instructions see:
+
+http://reprap.org/wiki/Installing_RepRap_on_your_computer
+
+and for user instructions see:
+
+http://reprap.org/wiki/Mendel_User_Manual:_Host_Software
+
